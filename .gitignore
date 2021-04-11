@@ -1,0 +1,19 @@
+*.pyc
+.DS_Store
+
+/temp/
+/tmp/
+/.project
+/.pydevproject
+/__pychache__
+
+# Test games
+/games
+
+# checkpoint
+checkpoints/
+
+# For PyCharm users
+.idea/
+
+
